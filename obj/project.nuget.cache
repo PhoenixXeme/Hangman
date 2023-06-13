@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cqp4Emr/46Pe1niCIsmXg8C4KRms4xbWle8860XQVwnak54Y0ZRZIBc4iDdzEGclSdUBzcrUvI47IjGv0i/MBw==",
+  "success": true,
+  "projectFilePath": "C:\\C# Projects\\Hangman\\Hangman\\Hangman.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eden3\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.16\\microsoft.netcore.app.runtime.win-x64.6.0.16.nupkg.sha512",
+    "C:\\Users\\eden3\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.16\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.16.nupkg.sha512",
+    "C:\\Users\\eden3\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.16\\microsoft.aspnetcore.app.runtime.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

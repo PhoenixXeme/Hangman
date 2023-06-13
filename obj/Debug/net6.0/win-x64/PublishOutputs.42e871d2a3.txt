@@ -1,0 +1,2 @@
+C:\C# Projects\Hangman\Hangman\bin\Debug\net6.0\win-x64\publish\Hangman.pdb
+C:\C# Projects\Hangman\Hangman\bin\Debug\net6.0\win-x64\publish\Hangman.exe
